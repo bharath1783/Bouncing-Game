@@ -1,1 +1,2 @@
-# Bouncing-Game
+# Geologist
+Geologist Project
